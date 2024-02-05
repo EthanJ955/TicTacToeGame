@@ -31,7 +31,7 @@ Computer Class:
 Usage: Represents a computer player that makes moves using the minimax algorithm.
 Inheritance: Extends the Player class.
 Polymorphism: Overrides takeTurn method.
-BoardButton Class:
+BoardButton Class
 
 Usage: Represents a button in the game board with associated row and column coordinates.
 Inheritance: Extends the Button class.
